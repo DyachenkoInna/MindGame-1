@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="16">
     <extensionMap>
       <mapping pattern="mnm" type="JavaFX" />
+      <mapping pattern="jj" type="XML" />
     </extensionMap>
   </component>
 </application>
