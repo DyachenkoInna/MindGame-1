@@ -70,6 +70,9 @@
       <library>
         <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/sqljdbc4-4.0.2206.100.jar</url>
       </library>
+      <library>
+        <url>file://$USER_HOME$/Downloads/mysql-connector-java-5.1.38-bin.jar</url>
+      </library>
     </driver>
     <driver id="hsqldb.remote" name="HSQLDB (Remote)" dialect="HSQLDB">
       <option name="auto-sync" value="true" />
