@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="16">
     <extensionMap>
+      <mapping pattern="Servlet" type="CLASS" />
       <mapping pattern="mnm" type="JavaFX" />
       <mapping pattern="jj" type="XML" />
     </extensionMap>
