@@ -1,0 +1,5 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="http://www.springframework.org/schema/beans" location="http://www.springframework.org/schema/beans" />
+  </component>
+</application>
