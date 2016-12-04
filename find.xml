@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'LR1'" />
-    <option name="defaultScopeName" value="Project 'LR1'" />
-    <option name="SEARCH_SCOPE" value="Project 'LR1'" />
+    <option name="customScope" value="File '[LR4] - ...\class.uml'" />
+    <option name="defaultScopeName" value="File '[LR4] - ...\class.uml'" />
+    <option name="SEARCH_SCOPE" value="File '[LR4] - ...\class.uml'" />
   </component>
 </application>
